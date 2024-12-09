@@ -4,10 +4,10 @@ A Java-based application that simulates a Game of Life, but with more cells and 
 
 It has an easy-to-use GUI with buttons that start, stop, and reset the simulation.
 
-Demos are below.
+Demo is below.
 
 ## Privacy
-Due to university guidelines on plagiarism and collusion, the main branch containing the full code is private.
+Due to university guidelines on plagiarism and collusion, the main repository containing the full code is private.
 If you are interested in viewing the code, please let me know.
 
 ## Coursework Details:
